@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wemmelotec
 - 👀 I’m interested in back-end java
 - 🌱 I’m currently learning java, spring, mysql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✨ https://wemmelotec.github.io
 
 <!---
 wemmelotec/wemmelotec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
